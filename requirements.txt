@@ -1,7 +1,5 @@
-aiogram
-yt-dlp
-instaloader
-openai
-gtts
-duckduckgo-search
-aiosqlite
+import telebot
+from flask import Flask
+import threading
+import os
+pyTelegramBotAPI
